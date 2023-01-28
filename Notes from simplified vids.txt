@@ -1,0 +1,4 @@
+-- INSERT INTO table(table_name) VALUES('object_1'),('object_2'),('object_3);
+select * from table //returns all objects
+
+-- INSERT INTO object(fk_ID,object_name,other_value) VALUES(1,'object_1','this is an object'), (2,'object_2','this is another object');
